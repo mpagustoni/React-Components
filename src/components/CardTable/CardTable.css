@@ -1,0 +1,10 @@
+.container {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+.flip-card {
+    padding: 10px;
+}
